@@ -2,8 +2,7 @@
 // SIGNATURE-ONLY VAULT VALIDATOR WITH TESTS - Simple Signature Contract
 // ============================================================================
 // This validator locks funds and allows a specific beneficiary to claim them
-// immediately, provided they sign the transaction. The time-lock feature
-// has been removed to resolve the dependency error.
+// immediately, provided they sign the transaction. 
 // ============================================================================
 
 use aiken/collection/list
